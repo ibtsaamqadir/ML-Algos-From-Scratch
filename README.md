@@ -35,8 +35,13 @@ Additionally, it is recommended to create a virtual environment and install the 
 ## Usage 
 
 You can run the implementations directly as Python scripts or use the Jupyter Notebooks provided to see the algorithms in action on sample datasets.
+
+For Python
 ```bash
 python knn.py
+```
+For Notebooks
+```bash
 jupyter notebook KNN/knn_demo.ipynb
 ```
 ## Contributing
