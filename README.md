@@ -8,7 +8,6 @@ Welcome to the repository where I have implemented various common machine learni
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
