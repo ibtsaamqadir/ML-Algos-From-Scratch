@@ -39,11 +39,7 @@ You can run the implementations directly as Python scripts or use the Jupyter No
 ```bash
 python knn.py
 jupyter notebook KNN/knn_demo.ipynb
-
+```
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, please open an issue or submit a pull request.
-
-##License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
