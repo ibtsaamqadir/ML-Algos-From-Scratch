@@ -20,6 +20,7 @@ This repository contains implementations of several classical machine learning a
 2. **Logistic Regression**
 3. **Gradient Descent**
 4. **Linear Regression**
+5. **K-Mean Clustering**
 
 Each algorithm is located in its respective directory and includes:
 - A Python file with the implementation (`.py`)
@@ -30,7 +31,19 @@ Each algorithm is located in its respective directory and includes:
 
 To run the code in this repository, you will need to have Python installed. You can download it from [python.org](https://www.python.org/).
 
-Additionally, it is recommended to create a virtual environment and install the required packages. You can do this by running:
+Additionally, it is recommended to create a virtual environment and install the required packages.
 
+## Usage 
+
+You can run the implementations directly as Python scripts or use the Jupyter Notebooks provided to see the algorithms in action on sample datasets.
 ```bash
-pip install -r requirements.txt
+python knn.py
+jupyter notebook KNN/knn_demo.ipynb
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or improvements, please open an issue or submit a pull request.
+
+##License
+
+This repository is licensed under the MIT License. See the LICENSE file for more details.
