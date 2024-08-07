@@ -19,7 +19,8 @@ This repository contains implementations of several classical machine learning a
 2. **Logistic Regression**
 3. **Gradient Descent**
 4. **Linear Regression**
-5. **K-Mean Clustering**
+5. **Polynomial Regression**
+6. **K-Mean Clustering**
 
 Each algorithm is located in its respective directory and includes:
 - A Python file with the implementation (`.py`)
