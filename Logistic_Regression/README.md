@@ -16,14 +16,9 @@ Logistic Regression is a common classification algorithm used to predict the pro
 The Logistic Regression algorithm works as follows:
 
 1. **Sigmoid Function**: The sigmoid function is used to map the predicted values to probabilities. It is defined as:
-    \[
-    \sigma(z) = \frac{1}{1 + e^{-z}}
-    \]
+    sigmoid(z) = 1/{1 + e^{-z}}
 2. **Decision Boundary**: A linear decision boundary separates the two classes.
-3. **Cost Function (Log Loss)**: The log loss function, also known as binary cross-entropy, measures the performance of a classification model whose output is a probability value between 0 and 1. It is defined as:
-    \[
-    J(\theta) = -\frac{1}{m} \sum_{i=1}^{m} \left[ y^{(i)} \log(h_\theta(x^{(i)})) + (1 - y^{(i)}) \log(1 - h_\theta(x^{(i)})) \right]
-    \]
+3. **Cost Function (Log Loss)**: The log loss function, also known as binary cross-entropy, measures the performance of a classification model whose output is a probability value between 0 and 1.
 4. **Gradient Descent**: An optimization algorithm used to minimize the cost function by iteratively updating the model parameters.
 
 ## Implementation
