@@ -43,7 +43,7 @@ python knn.py
 ```
 For Notebooks
 ```bash
-jupyter notebook KNN/knn_demo.ipynb
+jupyter notebook KNN/knn.ipynb
 ```
 ## Contributing
 
