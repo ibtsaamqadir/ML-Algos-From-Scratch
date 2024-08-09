@@ -5,7 +5,7 @@ This repository contains an implementation of the K-Nearest Neighbors (KNN) algo
 ## Table of Contents
 - [Introduction](#introduction)
 - [Algorithm Overview](#algorithm-overview)
-- [Function Parameters](#functiona-parameters)
+- [Function Parameters](#function-parameters)
 - [Implementation](#implementation)
 
 ## Introduction
